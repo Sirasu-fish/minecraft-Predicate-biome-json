@@ -1,6 +1,6 @@
 {
     "condition": "location_check",
     "predicate": {
-        "biome": mountain_edge"
+        "biome": "mountain_edge"
     }
 }
