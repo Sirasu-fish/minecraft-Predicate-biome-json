@@ -1,0 +1,6 @@
+{
+    "condition": "location_check",
+    "predicate": {
+        "biome": "stone_shore"
+    }
+}

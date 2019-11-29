@@ -1,0 +1,6 @@
+{
+    "condition": "location_check",
+    "predicate": {
+        "biome": "wooded_badlands_plateau"
+    }
+}
