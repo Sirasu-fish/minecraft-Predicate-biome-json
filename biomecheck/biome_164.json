@@ -1,6 +1,0 @@
-{
-    "condition": "location_check",
-    "predicate": {
-        "biome": "shatterd_savanna_plateau"
-    }
-}
