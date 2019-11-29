@@ -13,7 +13,7 @@ biomeID 0~169
 
 biomeIDs -> https://minecraft.gamepedia.com/Biome#Biome_IDs
 
-https://minecraft.gamepedia.com/Predicate
+Predicate -> https://minecraft.gamepedia.com/Predicate
 
 Predicates are technical JSON files that represent the conditions for loot tables, /execute if predicate command, or predicate target selector argument. They are a part of data packs.
 
