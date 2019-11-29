@@ -1,7 +1,7 @@
 # minecraft-Predicate-biome-json
 json files for minecraft 1.15~
 
-マインクラフト1.15~データパックで使えるpredicateでのjsonファイルです。
+マインクラフト1.15～　データパックで使えるpredicateでのjsonファイルです。
 バイオームＩＤ0~169まで対応しております。
 バイオームＩＤについては下のＵＲＬ
 
