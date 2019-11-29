@@ -20,3 +20,5 @@ Predicates are technical JSON files that represent the conditions for loot table
 例 Example
 
 execute if predicate example:biome_0 run scoreboard players set @s example_biome 0
+
+↑ means if emtity is in biome_0=ocean that entity's "example_biome" score will set 0
